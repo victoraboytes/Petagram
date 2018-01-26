@@ -1,4 +1,4 @@
-package com.victoraboytes.petagram2;
+package com.victoraboytes.petagram;
 
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
@@ -7,8 +7,8 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 
-import com.victoraboytes.petagram2.adapter.PetAdapter;
-import com.victoraboytes.petagram2.pojo.Pets;
+import com.victoraboytes.petagram.adapter.PetAdapter;
+import com.victoraboytes.petagram.pojo.Pets;
 
 import java.util.ArrayList;
 

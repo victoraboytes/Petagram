@@ -1,21 +1,19 @@
-package com.victoraboytes.petagram2.adapter;
+package com.victoraboytes.petagram.adapter;
 
 /**
  * Created by victoraboytes on 23/01/2018.
  */
 
 import android.app.Activity;
-import android.support.design.widget.Snackbar;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.victoraboytes.petagram2.R;
-import com.victoraboytes.petagram2.pojo.Pets;
+import com.victoraboytes.petagram.R;
+import com.victoraboytes.petagram.pojo.Pets;
 
 import java.util.ArrayList;
 

@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.victoraboytes.petagram2.ActivityAbout">
+    tools:context="com.victoraboytes.petagram.ActivityAbout">
 
     <include
         android:id="@+id/actionBar"

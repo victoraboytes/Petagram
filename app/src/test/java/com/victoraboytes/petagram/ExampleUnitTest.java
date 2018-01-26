@@ -1,4 +1,4 @@
-package com.victoraboytes.petagram2;
+package com.victoraboytes.petagram;
 
 import org.junit.Test;
 

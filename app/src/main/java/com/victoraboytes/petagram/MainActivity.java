@@ -1,4 +1,4 @@
-package com.victoraboytes.petagram2;
+package com.victoraboytes.petagram;
 
 import android.support.v4.app.Fragment;
 import android.content.Intent;
@@ -11,9 +11,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 
-import com.victoraboytes.petagram2.adapter.PageAdapter;
-import com.victoraboytes.petagram2.fragment.HomeFragment;
-import com.victoraboytes.petagram2.fragment.ProfileFragment;
+import com.victoraboytes.petagram.adapter.PageAdapter;
+import com.victoraboytes.petagram.fragment.HomeFragment;
+import com.victoraboytes.petagram.fragment.ProfileFragment;
 
 import java.util.ArrayList;
 

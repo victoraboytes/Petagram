@@ -1,4 +1,4 @@
-package com.victoraboytes.petagram2.fragment;
+package com.victoraboytes.petagram.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -9,9 +9,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.victoraboytes.petagram2.R;
-import com.victoraboytes.petagram2.adapter.PetAdapter;
-import com.victoraboytes.petagram2.pojo.Pets;
+import com.victoraboytes.petagram.R;
+import com.victoraboytes.petagram.adapter.PetAdapter;
+import com.victoraboytes.petagram.pojo.Pets;
 
 import java.util.ArrayList;
 

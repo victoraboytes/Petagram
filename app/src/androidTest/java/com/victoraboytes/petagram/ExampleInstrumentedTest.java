@@ -1,4 +1,4 @@
-package com.victoraboytes.petagram2;
+package com.victoraboytes.petagram;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

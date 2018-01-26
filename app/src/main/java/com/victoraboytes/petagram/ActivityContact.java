@@ -1,11 +1,11 @@
-package com.victoraboytes.petagram2;
+package com.victoraboytes.petagram;
 
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 
-public class ActivityAbout extends AppCompatActivity {
+public class ActivityContact extends AppCompatActivity {
 
     //Declaration of objects
     private Toolbar actionBar;
@@ -14,7 +14,7 @@ public class ActivityAbout extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_about);
+        setContentView(R.layout.activity_contact);
 
         //The action bar is defined in the layout file
         this.actionBar = (Toolbar)findViewById(R.id.actionBar);

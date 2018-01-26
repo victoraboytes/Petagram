@@ -1,4 +1,4 @@
-package com.victoraboytes.petagram2.pojo;
+package com.victoraboytes.petagram.pojo;
 
 /**
  * Created by victoraboytes on 21/01/2018.

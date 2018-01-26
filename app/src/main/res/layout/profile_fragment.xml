@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.victoraboytes.petagram2.fragment.ProfileFragment">
+    tools:context="com.victoraboytes.petagram.fragment.ProfileFragment">
 
     <com.mikhaellopez.circularimageview.CircularImageView
         android:layout_width="100dp"

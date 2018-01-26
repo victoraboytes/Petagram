@@ -1,4 +1,4 @@
-package com.victoraboytes.petagram2.adapter;
+package com.victoraboytes.petagram.adapter;
 
 import android.app.Activity;
 import android.support.design.widget.Snackbar;
@@ -10,8 +10,8 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.victoraboytes.petagram2.pojo.Pets;
-import com.victoraboytes.petagram2.R;
+import com.victoraboytes.petagram.pojo.Pets;
+import com.victoraboytes.petagram.R;
 
 import java.util.ArrayList;
 

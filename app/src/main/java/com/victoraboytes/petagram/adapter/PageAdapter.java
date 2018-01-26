@@ -1,4 +1,4 @@
-package com.victoraboytes.petagram2.adapter;
+package com.victoraboytes.petagram.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
