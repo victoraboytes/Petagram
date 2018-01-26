@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="textview_pet_name">Bird</string>
+    <string name="textview_pet_likes">5</string>
+    <string name="toast_pet_like">Diste like a</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_contact">Conctacto</string>
+    <string name="text_about">\nDesarrollador: Victor\nDomicilio: Calle Falsa 123\nCarrera: MC</string>
+    <string name="text_settings">Configuración</string>
+    <string name="action_text">Action View</string>
+    <string name="contact_name">Nombre completo</string>
+    <string name="contact_email">Email de contacto</string>
+    <string name="contact_message">Mensaje de contacto</string>
+    <string name="button_send">Enviar</string>
+</resources>

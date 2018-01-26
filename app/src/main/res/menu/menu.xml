@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">>
+    <item
+        android:id="@+id/menuAbout"
+        android:title="@string/menu_about"
+        android:orderInCategory="100">
+    </item>
+
+    <item
+        android:id="@+id/menuContact"
+        android:title="@string/menu_contact"
+        android:orderInCategory="101">
+    </item>
+
+    <item
+        android:id="@+id/menuActionView"
+        android:title="Refresh"
+        android:orderInCategory="102"
+        app:showAsAction="always"
+        android:icon="@drawable/five_star">
+    </item>
+</menu>

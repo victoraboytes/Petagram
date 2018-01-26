@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_actionbar">0dp</dimen>
+
+    <dimen name="cardview_margin_bottom">16dp</dimen>
+    <dimen name="cardview_margin_top">16dp</dimen>
+    <dimen name="cardview_margin_left">16dp</dimen>
+    <dimen name="cardview_margin_right">16dp</dimen>
+    <dimen name="cardview_corner_radius_pets">10dp</dimen>
+
+    <dimen name="textview_textsize_pet_name">20dp</dimen>
+    <dimen name="profile_pet">12dp</dimen>
+    <dimen name="textview_pet_margin_left">5dp</dimen>
+
+    <dimen name="imageview_pet_margin_left">12dp</dimen>
+    <dimen name="imageview_pet_margin_right">12dp</dimen>
+</resources>
